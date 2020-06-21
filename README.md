@@ -3,7 +3,7 @@
   <img width="140" src="https://raw.githubusercontent.com/Malcom98/MOBILE_PICTURES-Tripix/master/TripixLogo.png?raw=true">
 </p>
 <hr>
-This was a team project for Lumen Development (biggest programming competition in Croatia) of my teammate and me where I worked as a backend developer & database administrator.<br/>
+This was a team project for <b>Lumen Development (biggest programming competition in Croatia)</b> of my teammate and me where I worked as a backend developer & database administrator. We won <b>3rd place</b> on competition.<br/>
 Code is private because of security reasons. <br>
 If anyone has a wish to see the code behind pictures shown below, please contact me via GitHub.
 <hr/>
