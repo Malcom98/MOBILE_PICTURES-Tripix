@@ -1,4 +1,4 @@
-<center><h1>Tripix</h1></center><br/>
+<h1 align="center">Tripix</h1><br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Malcom98/MOBILE_PICTURES-Tripix/master/TripixLogo.png?raw=true">
 <br/>
