@@ -1,6 +1,6 @@
-<h1 align="center">Tripix</h1><br/>
+<h1 align="center">Tripix</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Malcom98/MOBILE_PICTURES-Tripix/master/TripixLogo.png?raw=true">
+  <img width="140" src="https://raw.githubusercontent.com/Malcom98/MOBILE_PICTURES-Tripix/master/TripixLogo.png?raw=true">
 <br/>
 <hr>
 This was a team project of my teammate and me where I worked as a backend developer & database administrator.<br/>
