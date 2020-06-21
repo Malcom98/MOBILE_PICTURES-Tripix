@@ -17,7 +17,7 @@ If anyone has a wish to see the code behind pictures shown below, please contact
 </table>
 <hr/>
 <h3 align="center">Description</h3>
-Tripix is iOS/Android travelling application that helps users to create travelling route. The main advantage of application is creating shortest path route based on user selected locations. It provides user with some usefull information like: travel time betwen two destinations, distance betwen two destinations, total distance, total duration etc.<br/>
+Tripix is iOS/Android travelling application that helps users to create travelling route. The main advantage of application is creating shortest path route based on user selected locations. It provides user with some usefull information like: travel time betwen two destinations, distance betwen two destinations, total distance, total duration etc.<br/><br/>
 <b>Features:</b>
 <ul>
   <li>Create new route</li>
