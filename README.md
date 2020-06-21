@@ -41,7 +41,8 @@ Tripix is iOS/Android travelling application that helps users to create travelli
   <li>Generate optimal shortest path route</li>
   <li>And much more...</li>
 </ul>
-<br/>
+<hr/>
+<h3 align="center">Pictures</h3>
 <p align="center">
   <img src="https://github.com/Malcom98/MOBILE_PICTURES-Tripix/blob/master/TripixStartingScreen.png?raw=true"><br/>
   <b>Image 1 - Starting screen of an application</b>
@@ -108,12 +109,12 @@ Application also shows user the shortest path on map.
 <br/>
 <b>/api/attractions</b>
 <ul>
-  <li>/attractions/parks (GET) - Endpoint used for getting nearby park attractions.</li>
-  <li>/attractions/stadiums (GET) - Endpoint used for getting nearby stadium attractions.</li>
-  <li>/attractions/pets (GET) - Endpoint used for getting nearby pet attractions.</li>
-  <li>/attractions/schools (GET) - Endpoint used for getting nearby school attractions.</li>
-  <li>/attractions/religions (GET) - Endpoint used for getting nearby religion attractions.</li>
-  <li>/attractions/landmarks (GET) - Endpoint used for getting nearby landmark attractions.</li>
+  <li>/parks (GET) - Endpoint used for getting nearby park attractions.</li>
+  <li>/stadiums (GET) - Endpoint used for getting nearby stadium attractions.</li>
+  <li>/pets (GET) - Endpoint used for getting nearby pet attractions.</li>
+  <li>/schools (GET) - Endpoint used for getting nearby school attractions.</li>
+  <li>/religions (GET) - Endpoint used for getting nearby religion attractions.</li>
+  <li>/landmarks (GET) - Endpoint used for getting nearby landmark attractions.</li>
 </ul>
 <br/>
 <b>/api/route</b>
