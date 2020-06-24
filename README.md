@@ -44,7 +44,7 @@ Tripix is iOS/Android travelling application that helps users to create travelli
 <hr/>
 <h3 align="center">Pictures</h3>
 <p align="center">
-  <img src="https://github.com/Malcom98/MOBILE_PICTURES-Tripix/blob/master/TripixStartingScreen.png?raw=true"><br/>
+  <img width="250" src="https://github.com/Malcom98/MOBILE_PICTURES-Tripix/blob/master/TripixStartingScreen.png?raw=true"><br/>
   <b>Image 1 - Starting screen of an application</b>
 </p>
 <br/><br/>
@@ -72,6 +72,18 @@ User is able to see the best rated comment by holding finger for a second on wan
 </p>
 User has also to select trip ending point so the application can make shortest route of all attractions that user selected. After that, route overview is shown. Route overview gives user shortest path betwen all selected attractions. Route overview provides user with some useful information like: total trip time, total duration time, time betwen two destinations and distance betwen two destinations.
 Application also shows user the shortest path on map.
+<br/><br/><br/>
+<p align="center">
+  <img width="540" src="https://github.com/Malcom98/WEB-MOBILE_PICTURES-Tripix/blob/master/TripixPlannedAndFinishedRoutes.png?raw=true"><br/>
+  <b>Image 6 - Planned & Finished routes</b>
+</p>
+User has an ability to see his planned and finished routes. Planned routes are defined as routes that have been planned, but not done yet. Finished routes are defined as planned routes that are done.
+<br/><br/><br/>
+<p align="center">
+  <img src="https://github.com/Malcom98/WEB-MOBILE_PICTURES-Tripix/blob/master/TripixNearby.png?raw=true"><br/>
+  <b>Image 6 - Nearby locations</b>
+</p>
+User is also able to see nearby cafes, restaurants, shops and attractions depending on his location. User can also see further information about those locations.
 <br/><br/><br/>
 <hr/>
 <h3 align="center">Back End API Endpoints</h3>
