@@ -44,7 +44,7 @@ Tripix is iOS/Android travelling application that helps users to create travelli
 <hr/>
 <h3 align="center">Pictures</h3>
 <p align="center">
-  <img width="250" src="https://github.com/Malcom98/MOBILE_PICTURES-Tripix/blob/master/TripixStartingScreen.png?raw=true"><br/>
+  <img width="245" src="https://github.com/Malcom98/MOBILE_PICTURES-Tripix/blob/master/TripixStartingScreen.png?raw=true"><br/>
   <b>Image 1 - Starting screen of an application</b>
 </p>
 <br/><br/>
@@ -74,7 +74,7 @@ User has also to select trip ending point so the application can make shortest r
 Application also shows user the shortest path on map.
 <br/><br/><br/>
 <p align="center">
-  <img width="540" src="https://github.com/Malcom98/WEB-MOBILE_PICTURES-Tripix/blob/master/TripixPlannedAndFinishedRoutes.png?raw=true"><br/>
+  <img width="510" src="https://github.com/Malcom98/WEB-MOBILE_PICTURES-Tripix/blob/master/TripixPlannedAndFinishedRoutes.png?raw=true"><br/>
   <b>Image 6 - Planned & Finished routes</b>
 </p>
 User has an ability to see his planned and finished routes. Planned routes are defined as routes that have been planned, but not done yet. Finished routes are defined as planned routes that are done.
